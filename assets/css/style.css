@@ -3,3 +3,12 @@
         display: none;
     }
 }
+
+@media screen and (max-width: 510px) {
+    td>button.btn-sm{
+        padding: 0.2rem 0.40rem;
+        i{
+            font-size: 0.8rem;
+        }
+    }
+}
