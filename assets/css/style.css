@@ -1,9 +1,3 @@
-@media screen and (max-width: 767px) {
-    #loan{
-        display: none;
-    }
-}
-
 @media screen and (max-width: 510px) {
     td>button.btn-sm{
         padding: 0.2rem 0.40rem;
